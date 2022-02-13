@@ -1,4 +1,4 @@
-# Incognito
+# Inflopnito
 Access the world wide web!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/Incognito/tree/main)
@@ -7,8 +7,8 @@ Access the world wide web!
 ## Setup
 
 ```sh
-git clone https://github.com/titaniumnetwork-dev/Incognito
-cd Incognito
+git clone https://github.com/Beachball09/Inflopnito-V3
+cd Inflopnito
 npm install
 npm start
 ```
