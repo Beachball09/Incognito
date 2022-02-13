@@ -49,32 +49,32 @@ body {
 body[data-appearance="ocean"] {
     --border-color: rgb(255, 255, 255, .2);
     --text-color: #FFF;
-    --header-background: #282d3f;
-    --secondary-color: mediumseagreen;
+    --header-background: #0831c4;
+    --secondary-color: rgb(15, 214, 104);
     --scrollbar-thumb-color: rgb(52, 184, 116, 0.3);
     --scrollbar-track-color: rgb(52, 184, 116, 0.1);
-    background: #161923
+    background: #003cff
 }
 
 body[data-appearance="lime"] {
     --border-color: rgb(255, 255, 255, .2);
     --text-color: #FFF;
-    --header-background: #185ADB;
-    --secondary-color: #FFC947;
+    --header-background: rgb(23, 216, 5);
+    --secondary-color: rgb(94, 216, 12);
     --scrollbar-thumb-color: rgb(52, 184, 116, 0.3);
     --scrollbar-track-color: rgb(52, 184, 116, 0.1);
-    background:#0A1931;
+    background:rgb(2, 170, 16);
 }
 
 body[data-appearance="terminal"] {
-    --border-color: rgb(255, 255, 255, .2);
-    --text-color: #FFF;
+    --border-color: rgba(255, 1, 1, 0.2);
+    --text-color: rgb(175, 0, 0);
     --header-background: #000;
-    --secondary-color: mediumseagreen;
+    --secondary-color: rgb(0, 230, 103);
     --scrollbar-thumb-color: rgb(52, 184, 116, 0.3);
     --scrollbar-track-color: rgb(52, 184, 116, 0.1);
     font-family: Ubuntu Mono;
-    background:#000;
+    background:red;
 }
  
 body[data-appearance="midnight"] {
